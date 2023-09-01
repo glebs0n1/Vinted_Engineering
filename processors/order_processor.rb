@@ -1,4 +1,3 @@
-# processors/order_processor.rb
 class OrderProcessor
   attr_reader :counts, :lowest_s_price, :orders_file
 
